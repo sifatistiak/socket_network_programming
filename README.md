@@ -1,5 +1,5 @@
-# socket_network_programming
-#python
+# Socket Network Programming
+# Python
 
 First of all we import socket which is necessary.
 Then we made a socket object and reserved a port on our pc.
